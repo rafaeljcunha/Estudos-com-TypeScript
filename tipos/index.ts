@@ -86,7 +86,7 @@ console.log(Cor.Amarelo, Cor.Cinza);
 let meuNome: string = "Rafael";
 
 function retornaMeuNome(name: string): string {
-  return meuNome;
+  return name;
 }
 console.log(retornaMeuNome(meuNome));
 
